@@ -1,0 +1,1 @@
+BERSIHKAN_LIST|U-jan,U-feb,U-mar,U-apr,U-mei,U-jun,U-jul,U-ags,U-sep,U-okt,U-nov,U-des|CC|0,-,X,x
