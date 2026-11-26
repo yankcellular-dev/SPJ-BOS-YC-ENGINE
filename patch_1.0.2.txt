@@ -1,1 +1,0 @@
-IMPORT_BAS|Moduraian|https://raw.githubusercontent.com/yankcellular-dev/SPJ-BOS-YC-ENGINE/main/modUraianV2.bas
